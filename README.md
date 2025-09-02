@@ -21,10 +21,10 @@
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
   
   <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=5BC0EB&icon_color=5BC0EB&text_color=5BC0EB&bg_color=0B1D51" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
 
   <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=5BC0EB&text_color=5BC0EB&bg_color=0B1D51&hide_border=false&icon_color=5BC0EB" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=00FFFF&text_color=00FFFF&bg_color=000000&hide_border=false&icon_color=00FFFF" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
 
 </p>
 
