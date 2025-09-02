@@ -19,7 +19,8 @@
 ## 📊 Estatísticas de Linguagens
 
 <!-- Gráfico estilo “pie chart” mostrando porcentagens reais -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=pie&langs_count=8&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=donut&langs_count=8&theme=radical)
+
 
 ---
 
