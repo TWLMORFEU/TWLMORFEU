@@ -8,9 +8,7 @@
 ## 🚀 Technologies
 
 <!-- HTML -->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML"/>
-</a>
 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
