@@ -39,21 +39,23 @@
 ## 🌐 Conecte-se comigo  
 
 
-<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: baseline;">
+## 🌐 Conecte-se comigo
+
+<p align="left" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: flex-start;">
 
   <!-- Email -->
   <a href="mailto:eduardomiguel.34521@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=000000&height=35" alt="Email"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000&height=35" alt="Instagram"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&height=35" alt="LinkedIn"/>
   </a>
 
 </p>
