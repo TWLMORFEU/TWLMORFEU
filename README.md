@@ -30,7 +30,6 @@
 
 
 
-![Sobre Mim](https://img.shields.io/badge/Sobre%20Mim-00FFFF?style=for-the-badge&logo=none&labelColor=000000)
 
 
 
