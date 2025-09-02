@@ -39,8 +39,6 @@
 ## 🌐 Conecte-se comigo  
 
 
-## 🌐 Conecte-se comigo
-
 <p align="left" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: flex-start;">
 
   <!-- Email -->
@@ -55,7 +53,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="120" height="35" alt="LinkedIn" style="background-color:#00FFFF; padding:2px; border-radius:5px"/>
+        <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&height=35" alt="LinkedIn"/>
   </a>
 
 </p>
