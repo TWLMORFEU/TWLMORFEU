@@ -38,7 +38,6 @@
 
 ## 🌐 Conecte-se comigo  
 
-## 🌐 Conecte-se comigo
 
 <p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
