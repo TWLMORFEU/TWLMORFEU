@@ -1,3 +1,5 @@
+![Meu progresso](commit-wave.svg)
+
 # 👋 Olá, Me Chamo Eduardo Miguel  
 
 💻 Desenvolvedor Full Stack em formação  
