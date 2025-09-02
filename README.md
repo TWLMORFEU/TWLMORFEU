@@ -15,7 +15,7 @@
 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-00FFFF?style=for-the-badge&logo=css3&logoColor=000000" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS-00FFFF?style=for-the-badge&logo=css&logoColor=000000" alt="CSS"/>
 </a>
 
 <!-- JavaScript -->
@@ -27,6 +27,7 @@
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-00FFFF?style=for-the-badge&logo=node.js&logoColor=000000" alt="Node.js"/>
 </a>
+
 
 
 
