@@ -38,15 +38,25 @@
 
 ## 🌐 Conecte-se comigo  
 
-<div style="display: flex; gap: 15px;">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+## 🌐 Conecte-se comigo
+
+<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Email -->
+  <a href="mailto:eduardomiguel.34521@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/>
   </a>
-  <a href="https://github.com/SeuUsuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/seu-perfil" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
   </a>
-</div>
+
+</p>
+
 
