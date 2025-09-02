@@ -1,10 +1,3 @@
-# 👋 Olá, Me Chamo Eduardo Miguel  
-
-💻 Desenvolvedor Full Stack em formação  
-🎯 Sempre aprendendo e buscando novos desafios  
-
----
-
 ## 🚀 Technologies
 
 <!-- HTML -->
@@ -26,20 +19,6 @@
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js"/>
 </a>
-
----
-
-## 📊 Estatísticas de Linguagens
-
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
-  
-  <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
-
-  <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
-
-</p>
 
 ---
 
