@@ -1,4 +1,3 @@
-![Meu progresso](commit-wave.svg)
 
 # 👋 Olá, Me Chamo Eduardo Miguel  
 
