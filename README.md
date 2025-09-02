@@ -8,9 +8,29 @@
 
 ## 🚀 Technologies
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML-00FFFF?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML"/>
-</a>
+<p style="display: flex; gap: 15px; flex-wrap: wrap;">
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-00FFFF?style=for-the-badge&logo=html5&logoColor=000000&labelColor=000000" alt="HTML"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-00FFFF?style=for-the-badge&logo=css3&logoColor=000000&labelColor=000000" alt="CSS"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000" alt="JavaScript"/>
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-00FFFF?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=000000" alt="Node.js"/>
+  </a>
+
+</p>
 
 
 ---
