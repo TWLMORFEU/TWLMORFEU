@@ -18,16 +18,16 @@
 
 ## 📊 Estatísticas de Linguagens
 
-<!-- Gráfico estilo “pie chart” mostrando porcentagens reais -->
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
   
   <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=0d1b2a&icon_color=1f77b4&text_color=1f77b4&bg_color=0d1b2a" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
 
   <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&theme=blue-green" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=0d1b2a&text_color=1f77b4&bg_color=0d1b2a&hide_border=false&icon_color=1f77b4" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.25); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'"/>
 
 </p>
+
 
 
 
