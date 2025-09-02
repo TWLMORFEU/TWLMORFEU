@@ -1,4 +1,5 @@
 # 👋 Olá, Me Chamo Eduardo Miguel  
+![Sobre Mim](https://img.shields.io/badge/Sobre%20Mim-00FFFF?style=for-the-badge&logo=none&labelColor=000000)
 
 💻 Desenvolvedor Full Stack em formação  
 🎯 Sempre aprendendo e buscando novos desafios  
