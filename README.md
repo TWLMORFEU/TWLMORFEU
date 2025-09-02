@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Stacks
+## 🚀 Technologies
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -19,9 +19,9 @@
 ## 📊 Estatísticas de Linguagens
 
 <!-- Gráfico estilo “pie chart” mostrando porcentagens reais -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=8&theme=tokyonight" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </p>
 
 
