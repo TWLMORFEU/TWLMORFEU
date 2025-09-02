@@ -39,7 +39,7 @@
 ## 🌐 Conecte-se comigo  
 
 
-<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+<p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: baseline;">
 
   <!-- Email -->
   <a href="mailto:eduardomiguel.34521@gmail.com" target="_blank" style="text-decoration: none;">
