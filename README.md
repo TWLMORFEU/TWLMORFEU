@@ -1,141 +1,69 @@
-# 🚀 Projeto Nome do Projeto
+# 👋 Olá, Me Chamo Eduardo Miguel  
 
-Bem-vindo ao **Nome do Projeto**! Este repositório contém [descrição breve do seu projeto], desenvolvido para [propósito/objetivo principal].  
-Sinta-se à vontade para explorar, contribuir e compartilhar!
-
----
-
-## ✨ Demonstração
-
-![Demonstração do Projeto](docs/demo.gif)
-
-Veja o projeto em funcionamento: [Link para a demo](https://seuprojeto.demo)  
-Screenshots:
-| Tela Inicial | Funcionalidade X | Tela Responsiva |
-|--------------|------------------|-----------------|
-| ![img1](docs/tela1.png) | ![img2](docs/tela2.png) | ![img3](docs/tela3.png) |
+💻 Desenvolvedor Full Stack em formação  
+🎯 Sempre aprendendo e buscando novos desafios  
 
 ---
 
-## 📚 Índice
+## 🚀 Technologies
 
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Começando](#começando)
-- [Scripts](#scripts)
-- [Ambiente](#ambiente)
-- [Roadmap](#roadmap)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
----
+<!-- HTML -->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
+</a>
 
-## 📝 Sobre
+<!-- CSS -->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
+</a>
 
-Descreva de forma detalhada o que o seu projeto faz, qual problema resolve, diferenciais e público alvo.
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+</a>
 
----
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+</a>
 
-## 🎯 Funcionalidades
-
-- [x] Feature 1: descrição
-- [x] Feature 2: descrição
-- [ ] Próxima Feature: descrição planejada
-
----
-
-## 💻 Tecnologias
-
-- Linguagens: ![Badge](https://img.shields.io/badge/language-JS-blue)
-- Frameworks: React, Node.js
-- Banco de Dados: MongoDB
-- Testes: Jest, Cypress
-- Outras: Docker, GitHub Actions
+</p>
 
 ---
 
-## 🚀 Começando
+## 📊 Estatísticas de Linguagens
 
-### Pré-requisitos
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-- [Node.js](https://nodejs.org/)
-- [Docker](https://docker.com/) (opcional)
-- [Yarn](https://yarnpkg.com/) ou npm
+<!-- GitHub Stats geral -->
+<img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&show_title=true&line_height=28" width="450"/>
 
-### Instalação
+<!-- Gráfico de linguagens em bar -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=bar&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3" width="450"/>
 
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_PROJETO.git
-cd SEU_PROJETO
-yarn install
-```
-
-### Rodando o projeto
-
-```bash
-yarn start
-```
-
-Ou com Docker:
-
-```bash
-docker-compose up
-```
+</p>
 
 ---
 
-## 🛠️ Scripts
+## 🌐 Conecte-se comigo  
 
-| Comando          | Ação                   |
-|------------------|------------------------|
-| `yarn start`     | Inicia o app           |
-| `yarn test`      | Roda testes unitários  |
-| `yarn build`     | Compila para produção  |
+<p align="left" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: flex-start;">
 
----
+<!-- Email -->
+<a href="mailto:eduardomiguel.34521@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" alt="Email"/>
+</a>
 
-## 🧪 Ambiente
+<!-- Instagram -->
+<a href="https://www.instagram.com/edu.st_" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45" alt="Instagram"/>
+</a>
 
-Copie o arquivo `.env.example` para `.env` e preencha as variáveis necessárias.
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+</a>
 
----
-
-## 🌱 Roadmap
-
-- [ ] Feature A
-- [ ] Integração com serviço B
-- [ ] Suporte mobile
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas!
-
-1. Faça um fork do projeto
-2. Crie uma branch: `git checkout -b feature/MinhaFeature`
-3. Commit suas mudanças: `git commit -m 'feat: Minha nova feature'`
-4. Push: `git push origin feature/MinhaFeature`
-5. Abra um Pull Request
-
-Leia o [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) e o [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## 📄 Licença
-
-Este projeto está sob licença [MIT](LICENSE).
-
----
-
-## 🙋‍♂️ Contato
-
-- Autor: [Seu Nome](https://github.com/SEU_USUARIO)
-- Email: seuemail@exemplo.com
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario)
-
----
-
-> Sinta-se à vontade para abrir issues ou propor melhorias!
+</p>
