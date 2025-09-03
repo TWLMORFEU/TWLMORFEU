@@ -39,7 +39,9 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-![GitHub commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&hide_title=true&show_icons=false&hide=prs,issues,contribs&count_private=true&theme=graywhite)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=radical&hide_border=true&background=00000000&dates=ffffff&currStreakNum=fc8800&sideNums=f7a900&currStreakLabel=fc8800&sideLabels=f7a900&ring=fc8800&fire=f7a900" alt="TWLMORFEU's streak stats" />
+</p>
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
