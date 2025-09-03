@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f5e0dc&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffb86c&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -32,12 +32,12 @@
   </summary>
   <br>
 
-  <div align="center">
+  <div align="center" style="margin-bottom: 30px;">
     <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
   </div>
 
   <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=fb4934&text_color=f5e0dc&bg_color=2d2d2d&hide_border=false&border_color=fb4934" alt="Linguagens mais usadas"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=fb4934&text_color=ffb86c&bg_color=2d2d2d&hide_border=false&border_color=fb4934" alt="Linguagens mais usadas"/>
   </div>
 
   <br>
