@@ -41,9 +41,21 @@
   <!-- GitHub Stats geral -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=00f5ff&text_color=00f5ff&bg_color=000000"/>
   <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&icon_color=00f5ff"/>
+<!-- Donut de linguagens (personalizável) -->
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&icon_color=00f5ff" alt="Linguagens mais usadas"/>
 </p>
 
+<!-- Barra animada das linguagens -->
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
+</p>
+
+<!-- Gráfico Circular (Pie) com summary cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TWLMORFEU&theme=tokyonight" alt="Linguagens por repositório"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TWLMORFEU&theme=tokyonight" alt="Linguagem mais usada em commits"/>
+</p>
 
 <div align="center" style="display: inline_block"><br>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
