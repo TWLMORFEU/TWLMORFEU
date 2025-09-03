@@ -39,8 +39,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-## Streak de Contribuição
-[![GitHub Streak](https://streak-stats.demolab.com?user=TWLMORFEU&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&hide=prs,issues&custom_title=Commits%20de%20TWLMORFEU)
 
 ![ECharts GIF](https://echarts.apache.org/examples/en/images/animated/dynamic-data.gif)
 
