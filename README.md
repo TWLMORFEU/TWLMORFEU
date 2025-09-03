@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fb4934"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff8700"/>
 
 <div align="center">
   <samp>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=fb4934&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=ff8700&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
 </div>
 
 <br><br>
@@ -37,14 +37,14 @@
   </div>
 
   <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=fb4934&text_color=ffb86c&bg_color=2d2d2d&hide_border=false&border_color=fb4934" alt="Linguagens mais usadas"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=ff8700&text_color=ffb86c&bg_color=2d2d2d&hide_border=false&border_color=ff8700" alt="Linguagens mais usadas"/>
   </div>
 
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=fb4934)](mailto:eduardomiguel.34521@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=fb4934)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=fb4934)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=ff8700)](mailto:eduardomiguel.34521@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=ff8700)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=ff8700)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb4934&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff8700&height=100&section=footer"/>
