@@ -72,7 +72,5 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-5cadc0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 </div>
 
-  
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
