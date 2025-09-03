@@ -39,35 +39,40 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-<!-- Gráfico de Snake animado (contribuições) -->
-![snake gif](https://github.com/TWLMORFEU/TWLMORFEU/blob/output/github-contribution-grid-snake.svg)
+# Exemplos de Gráficos Bonitos e Animados
 
-<!-- Gráfico de Commits por hora/dia (GitHub Profile Trophy) -->
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 1. Gráfico de Barras Animado (GIF)
 
-<!-- Gráfico de Atividades (waka-readme-stats) -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TWLMORFEU&theme=dark&bg_color=000000&title_color=00f5ff&icon_color=00f5ff)](https://github.com/anuraghazra/github-readme-stats)
+![Animated Bar Chart](https://raw.githubusercontent.com/plotly/datasets/master/gif/animated-bar.gif)
 
-<!-- Gráfico de Commits por linguagem -->
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!-- Gráfico de atividades diárias (activity graph) -->
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TWLMORFEU&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)
+## 2. Gráfico de Linhas Animado (GIF)
 
-<!-- Gráfico de Contribuições Mensais (github-contributions-chart) -->
-[![Contributions](https://github-contributions-api.deno.dev/TWLMORFEU.svg)](https://github.com/TWLMORFEU)
+![Animated Line Chart](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
 
-<!-- Trophy com temas diferentes -->
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-<!-- Medalhas (medalhas de contribuição) -->
-![Medalhas](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&column=8&theme=onedark)
+## 3. Gráfico de Pizza Animado (GIF)
 
-<!-- Card de conquistas (Achievements) -->
-[![TWLMORFEU's Achievements](https://github-profile-achievements.vercel.app/api/achievements?username=TWLMORFEU)](https://github.com/Schweinepriester/github-profile-achievements)
+![Animated Pie Chart](https://i.gifer.com/embedded/download/7VE3.gif)
 
-<!-- Card de status de organização (se você faz parte de alguma) -->
-[![TWLMORFEU's Organizations](https://github-readme-stats.vercel.app/api/pin/?username=TWLMORFEU&repo=TWLMORFEU)](https://github.com/TWLMORFEU/TWLMORFEU)
+---
+
+## 4. Gráfico de Áreas (GIF)
+
+![Animated Area Chart](https://miro.medium.com/v2/resize:fit:720/format:webp/1*QKqvSgWv2vWQmB7gU8gK5w.gif)
+
+---
+
+## 5. Gráfico de Dispersão com Animação (GIF)
+
+![Animated Scatter Plot](https://media.plot.ly/plotly-documentation/images/animations/plotly-animated-scatter.gif)
+
+---
+
+## 6. Gráfico Interativo (Plotly)
+
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
