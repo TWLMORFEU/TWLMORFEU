@@ -38,16 +38,14 @@
 
 ## 📊 Estatísticas de Linguagens
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
-  
-  <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=omni"/>
+</div>
 
-
-  <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3"/>
-
-</p>
+<div align="
 
 ## 💻 Skills
 
