@@ -64,3 +64,12 @@
   </a>
 
 </p>
+
+<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="40" width="20" height="80" fill="#4caf50"/>
+  <rect x="24" y="30" width="20" height="90" fill="#81c784"/>
+  <rect x="48" y="50" width="20" height="70" fill="#388e3c"/>
+  <rect x="72" y="20" width="20" height="100" fill="#a5d6a7"/>
+  <rect x="96" y="40" width="20" height="80" fill="#4caf50"/>
+</svg>
+
