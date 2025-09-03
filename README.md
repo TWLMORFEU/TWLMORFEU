@@ -39,39 +39,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-# Exemplos de Gráficos Bonitos e Animados
-
-## 1. Gráfico de Barras Animado (GIF)
-
-![Animated Bar Chart](https://raw.githubusercontent.com/plotly/datasets/master/gif/animated-bar.gif)
-
----
-
-## 2. Gráfico de Linhas Animado (GIF)
-
-![Animated Line Chart](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
-
----
-
-## 3. Gráfico de Pizza Animado (GIF)
-
-![Animated Pie Chart](https://i.gifer.com/embedded/download/7VE3.gif)
-
----
-
-## 4. Gráfico de Áreas (GIF)
-
-![Animated Area Chart](https://miro.medium.com/v2/resize:fit:720/format:webp/1*QKqvSgWv2vWQmB7gU8gK5w.gif)
-
----
-
-## 5. Gráfico de Dispersão com Animação (GIF)
-
-![Animated Scatter Plot](https://media.plot.ly/plotly-documentation/images/animations/plotly-animated-scatter.gif)
-
----
-
-## 6. Gráfico Interativo (Plotly)
+![Line Real-Time Chart GIF](https://media.giphy.com/media/xT8qBnlWcFh5MGhQDu/giphy.gif)
 
 
 <p align="center">
