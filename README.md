@@ -43,6 +43,8 @@
   <!-- GitHub Stats geral -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000"/>
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8)
+ 
   <!-- Gráfico de linguagens em donut -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3"/>
 
