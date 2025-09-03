@@ -39,6 +39,8 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
+[![TWLMORFEU's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&bg_color=1a1b27&color=fc8e12&line=fc8e12&point=ffffff&area=true&hide_border=true)](https://github.com/TWLMORFEU)
+
 ![ECharts GIF](https://echarts.apache.org/examples/en/images/animated/dynamic-data.gif)
 
 
