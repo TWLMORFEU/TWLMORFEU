@@ -64,9 +64,14 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+## 📫 Contact Me
+
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+  [![Gmail](https://img.shields.io/badge/Gmail-5cadc0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-5cadc0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-5cadc0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+</div>
+
   
 </div>
 
