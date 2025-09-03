@@ -40,7 +40,7 @@
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
 
-<<p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=highcontrast&hide_border=true&background=000000&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=00f0ff&ring=00f0ff&fire=00f0ff" alt="TWLMORFEU's streak stats" />
 </p>
 
