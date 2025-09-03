@@ -61,11 +61,14 @@
 
 ## 📫 Contact Me
 
+## 📫 Contact Me
+
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
   [![Gmail](https://img.shields.io/badge/Gmail-5cadc0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-5cadc0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-5cadc0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  [![Instagram](https://img.shields.io/badge/Instagram-5cadc0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/edu.st_/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-5cadc0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-badaró-996421347/)
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
