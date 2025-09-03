@@ -1,1 +1,33 @@
 
+name: Atualizar Commit Wave
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # todo dia à meia-noite
+
+jobs:
+  update-wave:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Gerar SVG de commits
+        run: |
+          echo '<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">' > commit-wave.svg
+          for i in {0..29}; do
+            height=$(( RANDOM % 80 + 20 ))
+            y=$(( 120 - height ))
+            x=$(( i * 24 ))
+            echo "<rect x=\"$x\" y=\"$y\" width=\"20\" height=\"$height\" fill=\"#4caf50\"/>" >> commit-wave.svg
+          done
+          echo '</svg>' >> commit-wave.svg
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add commit-wave.svg
+          git commit -m "Atualizar commit wave"
+          git push
