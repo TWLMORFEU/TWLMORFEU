@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Desenvolvedor Front-End
+      Futuro Full Stack
       <br>
       Olá, meu nome é Eduardo Miguel!
       <br>
@@ -63,23 +63,9 @@
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/eduardo)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
   
 </div>
-
-<div align="center">
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/eduardo">rentry</a> ⊹
-        <a href="https://linktr.ee/eduardo">linktr.ee</a> ⊹
-        <a href="https://byeduardo.carrd.co/">carrd.co</a> ⊹
-        <a href="https://eduardo.notion.site/">notion</a> ♡
-      </samp>
-  </p>
-</div>
-
-<br>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
