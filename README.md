@@ -10,9 +10,7 @@
   </samp>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
-</p>
+
 
 <br>
 <br>
