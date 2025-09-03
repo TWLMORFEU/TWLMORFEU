@@ -39,7 +39,11 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
   <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=00f5ff&text_color=00f5ff&bg_color=000000"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TWLMORFEU&theme=dark&hide_border=true&background=000000&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)](https://git.io/streak-stats)
+
+![TWLMORFEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dark&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=000000&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&theme=onedark&no-frame=true&column=6&title=Stars,Commits,Followers,PullRequest,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
   <!-- Gráfico de linguagens em donut -->
 <!-- Donut de linguagens (personalizável) -->
 
