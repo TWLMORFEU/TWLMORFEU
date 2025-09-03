@@ -38,8 +38,9 @@
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
+  
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&hide=prs,issues&custom_title=Commits%20de%20TWLMORFEU&title_color=00f5ff&text_color=00f5ff&icon_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff)
 
-![ECharts GIF](https://echarts.apache.org/examples/en/images/animated/dynamic-data.gif)
 
 ![GitHub Commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&hide=prs,issues&custom_title=Commits%20de%20TWLMORFEU&title_color=00f5ff&text_color=00f5ff&icon_color=00f5ff&bg_color=000000&hide_border=true)
 
