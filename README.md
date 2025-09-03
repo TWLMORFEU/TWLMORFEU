@@ -37,11 +37,9 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardomiguel&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardomiguel&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardomiguel&theme=nord_dark&utcOffset=-3) |
-  | :-: | :-: | :-: |
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardomiguel&theme=github-compact&area=true&hide_border=true)](https://github.com/eduardomiguel)
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardomiguel&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardomiguel&theme=nord)](https://git.io/streak-stats) |
-  | :-: | :-: |
+![GitHub Commits (this year)](https://img.shields.io/github/commit-activity/y/eduardomiguel/eduardomiguel?color=5cadc0)
   
 </div>
 
