@@ -40,11 +40,11 @@
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
+  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&background=000000&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideNums=00f5ff&sideLabels=00f5ff&dates=00f5ff&hide_border=false&border_color=ffffff" alt="TWLMORFEU's streak stats" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
 </p>
 
 <br>
