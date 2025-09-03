@@ -64,8 +64,3 @@
   </a>
 
 </p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TWLMORFEU&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
