@@ -39,7 +39,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-![Line Real-Time Chart GIF](https://media.giphy.com/media/xT8qBnlWcFh5MGhQDu/giphy.gif)
+![ECharts GIF](https://echarts.apache.org/examples/en/images/animated/dynamic-data.gif)
 
 
 <p align="center">
