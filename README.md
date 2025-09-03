@@ -1,4 +1,4 @@
-# 👋 Olá, Me Chamo Eduardo Miguel  
+# 👋 Olá, Sou o Eduardo Miguel  
 
 💻 Desenvolvedor Full Stack em formação  
 🎯 Sempre aprendendo e buscando novos desafios  
