@@ -32,9 +32,9 @@
   </summary>
   <br>
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=highcontrast&hide_border=true&background=000000&currStreakNum=00f5ff&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=00f5ff&ring=00f5ff&fire=00f5ff" alt="TWLMORFEU's streak stats" />
-  </div>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
+</p>
 
   <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
