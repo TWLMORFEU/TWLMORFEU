@@ -39,10 +39,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
-</p>
-
+[![TWLMORFEU's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&bg_color=2d2d2d,434343&color=ffffff&line=fc8800&point=fc8800&area=true&hide_border=true)](https://github.com/TWLMORFEU)
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
