@@ -39,11 +39,35 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TWLMORFEU&theme=dark&hide_border=true&background=000000&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideNums=00f5ff&sideLabels=00f5ff&dates=00f5ff)](https://git.io/streak-stats)
+<!-- Gráfico de Snake animado (contribuições) -->
+![snake gif](https://github.com/TWLMORFEU/TWLMORFEU/blob/output/github-contribution-grid-snake.svg)
 
+<!-- Gráfico de Commits por hora/dia (GitHub Profile Trophy) -->
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![TWLMORFEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dark&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=000000&hide_border=true)
+<!-- Gráfico de Atividades (waka-readme-stats) -->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TWLMORFEU&theme=dark&bg_color=000000&title_color=00f5ff&icon_color=00f5ff)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Gráfico de Commits por linguagem -->
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=pie&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Gráfico de atividades diárias (activity graph) -->
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TWLMORFEU&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true)
+
+<!-- Gráfico de Contribuições Mensais (github-contributions-chart) -->
+[![Contributions](https://github-contributions-api.deno.dev/TWLMORFEU.svg)](https://github.com/TWLMORFEU)
+
+<!-- Trophy com temas diferentes -->
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Medalhas (medalhas de contribuição) -->
+![Medalhas](https://github-profile-trophy.vercel.app/?username=TWLMORFEU&column=8&theme=onedark)
+
+<!-- Card de conquistas (Achievements) -->
+[![TWLMORFEU's Achievements](https://github-profile-achievements.vercel.app/api/achievements?username=TWLMORFEU)](https://github.com/Schweinepriester/github-profile-achievements)
+
+<!-- Card de status de organização (se você faz parte de alguma) -->
+[![TWLMORFEU's Organizations](https://github-readme-stats.vercel.app/api/pin/?username=TWLMORFEU&repo=TWLMORFEU)](https://github.com/TWLMORFEU/TWLMORFEU)
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
