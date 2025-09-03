@@ -38,12 +38,8 @@
 
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
-  
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&hide=prs,issues&custom_title=Commits%20de%20TWLMORFEU&title_color=00f5ff&text_color=00f5ff&icon_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff)
 
-
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&hide=prs,issues&custom_title=Commits%20de%20TWLMORFEU&title_color=00f5ff&text_color=00f5ff&icon_color=00f5ff&bg_color=000000&hide_border=true)
-
+[![TWLMORFEU's Daily Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&bg_color=22272e&color=fc8800&line=fc8800&point=ffffff&area=true&custom_title=Commits%20Diários%20de%20TWLMORFEU)](https://github.com/TWLMORFEU)
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false" alt="Linguagens mais usadas"/>
