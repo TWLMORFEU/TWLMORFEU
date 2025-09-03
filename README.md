@@ -1,65 +1,85 @@
-# 👋 Olá, Sou o Eduardo Miguel  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-💻 Desenvolvedor Full Stack em formação  
-🎯 Sempre aprendendo e buscando novos desafios  
+<div align="center">
+  <samp>
+    <b>
+      Desenvolvedor Front-End
+      <br>
+      Olá, meu nome é Eduardo Miguel!
+      <br>
+  </samp>
+</div>
 
----
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
 
-## 🚀 Technologies
+<br>
+<br>
 
-<!-- HTML -->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML"/>
-</a>
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
 
-<!-- CSS -->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS"/>
-</a>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Front-End+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
-</a>
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
 
-<!-- Node.js -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js"/>
-</a>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardomiguel&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardomiguel&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardomiguel&theme=nord_dark&utcOffset=-3) |
+  | :-: | :-: | :-: |
 
----
-
-## 📊 Estatísticas de Linguagens
-
-<p align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap; align-items: center;">
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardomiguel&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardomiguel&theme=nord)](https://git.io/streak-stats) |
+  | :-: | :-: |
   
-  <!-- GitHub Stats geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000"/>
+</div>
 
-  <!-- Gráfico de linguagens em donut -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3"/>
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
+</div>
 
-</p>
+<br>
 
----
+<div align="center">
 
-## 🌐 Conecte-se comigo  
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/eduardo)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo)
+  
+</div>
 
-<p align="left" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: flex-start;">
+<div align="center">
+<p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/eduardo">rentry</a> ⊹
+        <a href="https://linktr.ee/eduardo">linktr.ee</a> ⊹
+        <a href="https://byeduardo.carrd.co/">carrd.co</a> ⊹
+        <a href="https://eduardo.notion.site/">notion</a> ♡
+      </samp>
+  </p>
+</div>
 
-  <!-- Email -->
-  <a href="mailto:eduardomiguel.34521@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
-  </a>
+<br>
+<br>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/edu.st_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
-  </a>
-
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
