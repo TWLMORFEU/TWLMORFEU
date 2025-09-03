@@ -47,6 +47,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00f5ff&text_color=00f5ff&bg_color=000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
 </p>
 
+
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:eduardomiguel.34521@gmail.com)
