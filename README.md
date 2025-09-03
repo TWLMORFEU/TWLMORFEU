@@ -39,7 +39,8 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TWLMORFEU&theme=dark&hide_border=true&background=000000&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TWLMORFEU&theme=dark&hide_border=true&background=000000&stroke=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideNums=00f5ff&sideLabels=00f5ff&dates=00f5ff)](https://git.io/streak-stats)
+
 
 ![TWLMORFEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dark&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=000000&hide_border=true)
 
