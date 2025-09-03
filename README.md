@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A3C4F3"/>
 
 <div align="center">
   <samp>
@@ -12,7 +12,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=A3C4F3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p> 
 </div>
 
@@ -20,11 +20,11 @@
 <br>
 
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200"> <!-- aqui só dá pra trocar o gif por outro marrom escuro -->
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A3C4F3&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -39,7 +39,6 @@
 ## 📊 Estatísticas de Linguagens
 
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;"> <!-- GitHub Stats geral --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&count_private=true&include_all_commits=true&title_color=A3C4F3&icon_color=A3C4F3&text_color=A3C4F3&bg_color=000000"/> <!-- Gráfico de linguagens em donut --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=donut&langs_count=8&title_color=A3C4F3&text_color=A3C4F3&bg_color=000000&hide_border=false&icon_color=A3C4F3"/> </p>
-<div align="
 
 ## 💻 Skills
 
@@ -52,8 +51,6 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr) [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr) [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3C4F3&height=100&section=footer"/>
