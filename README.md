@@ -61,11 +61,6 @@
 
 ## 📫 Contact Me
 
-
-<div align="center">
-
-## 📫 Contact Me
-
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
   [![Gmail](https://img.shields.io/badge/Gmail-5cadc0?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eduardomiguel.34521@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-5cadc0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
