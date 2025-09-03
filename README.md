@@ -42,6 +42,10 @@
 
 </p>
 
+<!-- Gráfico de atividade estilo pontos -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&theme=react-dark&point=6E40C9&area=true&hide_border=false" alt="activity graph"/>
+</p>
 ---
 
 ## 🌐 Conecte-se comigo  
