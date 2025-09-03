@@ -70,4 +70,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/> estruture o codigo na cor tom azul pastel e deixa a estruturação semelhante ao das estatisticas
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
