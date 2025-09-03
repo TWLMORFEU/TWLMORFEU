@@ -40,8 +40,8 @@
   <br>
 
   <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=ff8700&text_color=ffb86c&bg_color=2d2d2d&hide_border=false&border_color=ff8700" alt="Linguagens mais usadas"/>
-  </div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=ff8700&text_color=ffb86c&bg_color=00000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
+</div>
 
   <br>
 
