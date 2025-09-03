@@ -65,7 +65,3 @@
 
 </p>
 
-## 📊 Meu gráfico de contribuições
-
-![Meu gráfico de contribuições](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_title=true&hide_rank=true&hide=prs_merged)
-
