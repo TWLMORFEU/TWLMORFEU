@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ff7f"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800020"/>
 
 <div align="center">
   <samp>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=00ff7f&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=800020&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
 </div>
 
 <br><br>
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=90ee90&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d17ca4&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -33,7 +33,7 @@
   <br>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=00ff7f&title_color=00ff7f&text_color=90ee90&bg_color=00000000&hide_border=false&border_color=ffffff" alt="TWLMORFEU's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=800020&title_color=800020&text_color=d17ca4&bg_color=00000000&hide_border=false&border_color=ffffff" alt="TWLMORFEU's GitHub stats"/>
 </div>
 
 
@@ -41,14 +41,14 @@
   <br>
 
   <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00ff7f&text_color=90ee90&bg_color=00000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=800020&text_color=d17ca4&bg_color=00000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
 </div>
 
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=00ff7f)](mailto:eduardomiguel.34521@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=00ff7f)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=00ff7f)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=800020)](mailto:eduardomiguel.34521@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=800020)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=800020)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=footer"/>
