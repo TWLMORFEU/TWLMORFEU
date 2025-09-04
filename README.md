@@ -1,54 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c0c0c0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ADD8E6"/> 
 
-<div align="center">
-  <samp>
-    <b>
-      Futuro Full Stack
-      <br>
-      Olá, meu nome é Eduardo Miguel!
-      <br>
-  </samp>
-</div>
+<div align="center"> 
+  <samp> 
+    <b> Futuro Full Stack <br> Olá, meu nome é Eduardo Miguel! <br> 
+  </samp> 
+</div> 
 
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=c0c0c0&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-</div>
+<div align="center"> 
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=ADD8E6&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /> 
+</div> 
 
-<br><br>
+<br><br> 
 
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
+<div align="center"> 
+  <img src="https://imgur.com/zeuHIk9.gif" width="200"> 
+</div> 
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e5e5e5&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
-</div>
+<div align="center" width="100%"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ADD8E6&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/> 
+</div> 
 
-<br>
+<br> 
 
-<details align="center">
-  <summary>
-    <samp><b>More Info</b></samp>
-  </summary>
-  <br>
+<details align="center"> 
+  <summary> <samp><b>More Info</b></samp> </summary> 
+  <br> 
+  <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=ADD8E6&title_color=ADD8E6&text_color=ffb86c&bg_color=00000000&hide_border=false&border_color=ffffff" alt="TWLMORFEU's GitHub stats"/> 
+  </div> 
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=c0c0c0&title_color=c0c0c0&text_color=e5e5e5&bg_color=00000000&hide_border=false&border_color=ffffff" alt="TWLMORFEU's GitHub stats"/>
-</div>
+  <br><br> 
 
+  <div align="center"> 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=ADD8E6&text_color=ffb86c&bg_color=00000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/> 
+  </div> 
 
-  <br>
-  <br>
+  <br> 
 
-  <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=c0c0c0&text_color=e5e5e5&bg_color=00000000&hide_border=false&border_color=ffffff" alt="Linguagens mais usadas"/>
-</div>
+  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=ADD8E6)](mailto:eduardomiguel.34521@gmail.com) 
+  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=ADD8E6)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr) 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=ADD8E6)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+</details> 
 
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=c0c0c0)](mailto:eduardomiguel.34521@gmail.com)  
-  [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=c0c0c0)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)  
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=c0c0c0)](https://www.linkedin.com/in/eduardo-badar%C3%B3-996421347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-</details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer"/>
