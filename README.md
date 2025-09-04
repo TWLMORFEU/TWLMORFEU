@@ -32,9 +32,7 @@
   </summary>
   <br>
 
-  <div align="center" style="margin-bottom: 30px;">
-    <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
-  </div>
+  <p align="center"> <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=gruvbox&background=EB545400" alt="TWLMORFEU's streak stats" />
 
   <br>
   <br>
