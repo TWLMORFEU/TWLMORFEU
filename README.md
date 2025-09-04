@@ -32,9 +32,10 @@
   </summary>
   <br>
 
-   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=ff8700&title_color=ff8700&text_color=ffb86c&bg_color=00000000&hide_border=false&border_color=ff8700" alt="TWLMORFEU's GitHub stats"/>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=ff8700&title_color=ff8700&text_color=ffb86c&bg_color=00000000&hide_border=false&border_color=ffffff" alt="TWLMORFEU's GitHub stats"/>
 </div>
+
 
   <br>
   <br>
