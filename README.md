@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=00BFFF&title_color=00BFFF&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=00BFFF" alt="TWLMORFEU's GitHub stats"/> 
   </div> 
 
-  <br><br> 
+  <br>
 
   <div align="center"> 
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00BFFF&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=00BFFF" alt="Linguagens mais usadas"/> 
