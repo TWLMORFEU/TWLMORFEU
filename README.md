@@ -23,7 +23,7 @@
 <br> 
 
 <details align="center"> 
-  <summary> <samp><b>More Info</b></samp> </summary> 
+  <summary> <samp><b>ver mais</b></samp> </summary> 
   <br> 
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=gruvbox&icon_color=00BFFF&title_color=00BFFF&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=00BFFF" alt="TWLMORFEU's GitHub stats"/> 
