@@ -35,7 +35,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&title_color=00BFFF&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=00BFFF" alt="Linguagens mais usadas"/> 
   </div> 
 
-  <br> 
+  <br>  
 
   [![Gmail](https://img.shields.io/badge/Gmail-2d2d2d?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:eduardomiguel.34521@gmail.com) 
   [![Instagram](https://img.shields.io/badge/Instagram-2d2d2d?style=for-the-badge&logo=instagram&logoColor=00BFFF)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr) 
