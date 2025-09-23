@@ -18,6 +18,7 @@
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Feduardomiguel&c=00BFFF&bg=2d2d2d&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /> 
 </div> 
 
+
 <br><br> 
 
 <div align="center"> 
