@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Eduardo Miguel</title>
 </head>
-<body>
+<body> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF"/> 
 
