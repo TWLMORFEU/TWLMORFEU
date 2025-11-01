@@ -40,13 +40,13 @@
   <!-- Card de linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=6&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0" alt="Linguagens mais usadas"/>
 </div>
-
+<br>
 <div align="center">
   <!-- Card de estatísticas de commits -->
   <img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0&count_private=true" alt="Estatísticas de commits do GitHub"/>
 </div>
 
-
+<br>
 
 
 <div align="center">
