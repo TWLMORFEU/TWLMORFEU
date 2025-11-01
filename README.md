@@ -2,7 +2,7 @@
 ![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF)
 
 # Eduardo Miguel
-**Futuro Full Stack**  
+**Futuro Desenvolvedor Full Stack**  
 Olá, meu nome é **Eduardo Miguel**!
 
 <!-- Visit counter -->
@@ -17,7 +17,7 @@ Olá, meu nome é **Eduardo Miguel**!
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00BFFF&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Programming;I+love+Programming+and+learning+new+technologies;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00BFFF&width=900&size=21&center=true&lines=Sou+do+Brasil;Sou+estudante+de+Programação;Amo+programar+e+aprender+novas+tecnologias;Seja+bem-vindo!" alt="Typing SVG"/>
 </p>
 
 ---
