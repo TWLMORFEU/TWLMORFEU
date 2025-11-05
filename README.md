@@ -28,7 +28,6 @@ Olá, meu nome é Eduardo!
 
 <br>
 
-### Conecte-se comigo
 <br>
 
 <details align="center">
