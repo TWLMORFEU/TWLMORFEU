@@ -42,28 +42,6 @@ Olá, meu nome é Eduardo!
   </div>
 
 
-<div align="center" style="background:#0d1117; border: 1 solid #5cadc0; padding:20; border-radius:12; width:100; color:#fff;">
-  <h3 style="color:#5cadc0;">📊 Minhas Estatísticas de Commit</h3>
-  
-  <p>
-    <span style="display:inline-block;background:#5cadc0;color:#0d1117;padding:8px 20px;margin:6px;border-radius:20px;font-weight:bold">Total: 2345</span>
-    <span style="display:inline-block;background:#222c33;color:#5cadc0;padding:8px 20px;margin:6px;border-radius:20px;">Ano: 678</span>
-    <span style="display:inline-block;background:#5cadc0;color:#0d1117;padding:8px 20px;margin:6px;border-radius:20px;">Maior Streak: 134 dias</span>
-    <span style="display:inline-block;background:#222c33;color:#5cadc0;padding:8px 20px;margin:6px;border-radius:20px;">Média diária: 3,1</span>
-  </p>
-
-  <div style="margin-top:20px;">
-    <span style="font-size:14px;">Progresso anual</span>
-    <div style="background:#222c33;border-radius:6px;overflow:hidden;width:85%;margin:auto;">
-      <div style="width:68%;height:16px;background:#5cadc0;"></div>
-    </div>
-    <span style="font-size:11px;color:#999">678 de 1000 commits possíveis</span>
-  </div>
-  
-  <p style="font-size:12px;color:#5cadc0;">
-    <i>Valores ilustrativos. Atualize com seus números reais!</i>
-  </p>
-</div>
 
   <br>
 
