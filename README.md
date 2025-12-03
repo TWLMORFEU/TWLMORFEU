@@ -42,7 +42,7 @@ Olá, meu nome é Eduardo!
   </div>
 
 
-<div align="center" style="background:#0d1117; border: 1px solid #5cadc0; padding:20px; border-radius:12px; width:100%; color:#fff;">
+<div align="center" style="background:#0d1117; border: 1 solid #5cadc0; padding:20; border-radius:12; width:100; color:#fff;">
   <h3 style="color:#5cadc0;">📊 Minhas Estatísticas de Commit</h3>
   
   <p>
