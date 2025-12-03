@@ -43,50 +43,6 @@ Olá, meu nome é Eduardo!
 
   <br>
 
-
-
-<div align="center" style="margin-top:;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0&count_private=true" alt="Estatísticas de commits do GitHub"/>
-</div>
-
-<table align="center" style="margin-left:auto; margin-right:auto; background:#0d1117; color:#fff; border:1px solid #5cadc0;">
-  <tr>
-    <th style="border:1px solid #5cadc0; color:#5cadc0;">Métrica</th>
-    <th style="border:1px solid #5cadc0; color:#5cadc0;">Valor</th>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Commits</td>
-    <td style="border:1px solid #5cadc0;">1,234</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Repositórios Públicos</td>
-    <td style="border:1px solid #5cadc0;">15</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Repositórios Privados</td>
-    <td style="border:1px solid #5cadc0;">3</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Contribuições</td>
-    <td style="border:1px solid #5cadc0;">2,345</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Followers</td>
-    <td style="border:1px solid #5cadc0;">42</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #5cadc0;">Stars Recebidas</td>
-    <td style="border:1px solid #5cadc0;">88</td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>Estatísticas do GitHub de <b>TWLMORFEU</b>, atualizadas manualmente.<br>
-  Para valores reais busque os dados diretamente do seu perfil ou peça para eu consultar!</i>
-</p>
-````
-
-Se quiser os valores exatos do seu perfil, posso buscar os públicos pra você! Deseja?
   <br>
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.st_?igsh=MWw4cmN1bXNmZHI5Ng%3D%3D&utm_source=qr)
