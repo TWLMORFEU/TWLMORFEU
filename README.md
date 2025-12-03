@@ -43,9 +43,47 @@ Olá, meu nome é Eduardo!
 
   <br>
 
-  <div align="center" style="margin-top:;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0&count_private=true" alt="Estatísticas de commits do GitHub"/>
-  </div>
+
+<div align="center" style="margin-top:;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0&count_private=true" alt="Estatísticas de commits do GitHub"/>
+</div>
+
+<table align="center" style="margin-left:auto; margin-right:auto; background:#0d1117; color:#fff; border:1px solid #5cadc0;">
+  <tr>
+    <th style="border:1px solid #5cadc0; color:#5cadc0;">Métrica</th>
+    <th style="border:1px solid #5cadc0; color:#5cadc0;">Valor</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Commits</td>
+    <td style="border:1px solid #5cadc0;">🌟</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Repositórios Públicos</td>
+    <td style="border:1px solid #5cadc0;">🌐</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Repositórios Privados</td>
+    <td style="border:1px solid #5cadc0;">🔒</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Contribuições</td>
+    <td style="border:1px solid #5cadc0;">💻</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Followers</td>
+    <td style="border:1px solid #5cadc0;">👥</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #5cadc0;">Stars Recebidas</td>
+    <td style="border:1px solid #5cadc0;">⭐</td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Substitua os valores dos campos por suas estatísticas do GitHub.<br>
+  Os ícones demonstram o tipo de métrica.</i>
+</p>
+````
 
   <br>
 
