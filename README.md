@@ -43,7 +43,7 @@ Olá, meu nome é Eduardo!
 
   <br>
 
-  <div align="center" style="margin-top: 12px;">
+  <div align="center" style="margin-top:;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0&count_private=true" alt="Estatísticas de commits do GitHub"/>
   </div>
 
