@@ -37,9 +37,9 @@ Olá, meu nome é Eduardo!
 
   <br>
 
-  <div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=6&title_color=5cadc0&text_color=ffffff&icon_color=5cadc0&bg_color=0d1117&border_color=5cadc0" alt="Linguagens mais usadas"/>
-  </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&theme=dark)
+
+![TWLMORFEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dark)
 
 
 
