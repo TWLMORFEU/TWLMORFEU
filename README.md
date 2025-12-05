@@ -37,16 +37,7 @@ Olá, meu nome é Eduardo!
 
   <br>
 
-markdown name=README.md
-<p align="center">
-  <!-- Gráfico automático das linguagens mais usadas (gera dinamicamente por um serviço público) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=8&hide_border=true" alt="Top languages by TWLMORFEU" />
-</p>
-
-<p align="center">
-  Gráfico gerado automaticamente por https://github.com/anuraghazra/github-readme-stats — atualiza sozinho conforme seus repositórios mudam.
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
