@@ -39,8 +39,6 @@ Olá, meu nome é Eduardo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
--->
-
   <br>
 
   <br>
