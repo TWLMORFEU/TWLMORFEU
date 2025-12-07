@@ -30,17 +30,32 @@ Olá, meu nome é Eduardo!
 
 <br>
 
-<details align="center">
-  <summary>
-    <samp><b>ver mais</b></samp>
-  </summary>
 
-  <br>
+### 👋 Olá!
 
+Aqui você encontra um resumo das linguagens e tecnologias que mais utilizo.  
+Os dados abaixo são atualizados automaticamente conforme meus repositórios mudam.
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+---
 
+## 📊 Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=10&hide_border=true)
 
+---
+
+## ⚡ Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&hide_border=true)
+
+---
+
+## 🧩 Cards de resumo (atualização automática)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU-USERNAME&theme=github_dark)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU-USERNAME&theme=github_dark)]()
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU-USERNAME&theme=github_dark)]()
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU-USERNAME&theme=github_dark)]()
 
   <br>
 
