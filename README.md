@@ -13,7 +13,7 @@
 <br>
       
 <div align="center">
-  <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="200">
+  <img src="./assets/coding_pixel_art.gif" width="200">
 </div>
 
 <div align="center" width="100%">
