@@ -33,12 +33,8 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardovm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardovm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardons&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduardovm&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
+ 
 </div>
 
 <div align="center" style="display: inline_block"><br>
