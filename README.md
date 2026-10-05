@@ -45,14 +45,8 @@
  
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="45" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000001b7c820eaa9a08e0148911d9&ts=497556&p=fs&cid=1&sig=c99113b101db3e789d3e49545f3369ebe322ed6191891f032d47886b7f550668&v=0" />
-  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,nodejs" />
 </div>
 
 <br>
