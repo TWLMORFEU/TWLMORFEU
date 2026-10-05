@@ -18,24 +18,27 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
+
 <details align="center">
     <summary>
       <samp>
         <b>More Info</b>
       </samp>
     </summary>
+
     <br>
+
 <div align="center">
 
 ## 📊 Estatísticas
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=ae2323&text_color=cdd6f4&icon_color=f38ba8&border_color=45475a&rank_icon=github)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0&rank_icon=github)
   
 </div>
 
@@ -58,7 +61,6 @@
 
 ##
 
-
 <br>
 
 <div align="center">
@@ -68,9 +70,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/31975411881)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardobadaro)
   
-  
 </div>
-
 
 ##
 
@@ -79,4 +79,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
