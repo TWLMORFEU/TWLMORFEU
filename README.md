@@ -30,8 +30,6 @@
       </samp>
     </summary>
 
-    <br>
-
 <div align="center">
 
 ## 📊 Estatísticas
