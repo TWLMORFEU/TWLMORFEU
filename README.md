@@ -47,6 +47,29 @@
 <br>
 
 ##
+## 📊 Estatísticas
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=ae2323&text_color=cdd6f4&icon_color=f38ba8&border_color=45475a&rank_icon=github)
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&theme=dracula&bg_color=1e1e2e&title_color=ae2323&text_color=cdd6f4&border_color=45475a)
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TWLMORFEU&theme=dracula&background=1e1e2e&ring=ae2323&fire=ae2323&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=ae2323&sideLabels=ae2323&dates=cdd6f4)
+  
+</div>
 
 <br>
 
