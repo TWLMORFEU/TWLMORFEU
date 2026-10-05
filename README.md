@@ -13,13 +13,13 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://media.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif" width="200">
 </div>
-
 
 <div align="center" width="100%">
- <iframe src="https://giphy.com/embed/GghGKaZ8JeHJx0apQC" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hiroshicoding-GghGKaZ8JeHJx0apQC"></a></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
+
 <br>
 
 <details align="center">
