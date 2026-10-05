@@ -18,7 +18,7 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5cadc0&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+Software+Engineering+student;I'm+turning+ideas+into+code;Be+welcome!" alt="Typing SVG"/>
+ <iframe src="https://giphy.com/embed/GghGKaZ8JeHJx0apQC" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hiroshicoding-GghGKaZ8JeHJx0apQC"></a></p>
 </div>
 <br>
 
