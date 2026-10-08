@@ -39,11 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TWLMORFEU&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TWLMORFEU&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&show=stars,commits&theme=dracula&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0"/>
 
 </div>
 
