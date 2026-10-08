@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TWLMORFEU/TWLMORFEU/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&bg_color=1e1e2e&color=cdd6f4&line=5cadc0&point=5cadc0&area=true&hide_border=false&custom_title=Contribuições"/>
 
 </div>
 
