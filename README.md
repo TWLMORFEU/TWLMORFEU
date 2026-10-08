@@ -42,9 +42,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5cadc0&height=2"/>
-</div>
+
 
 <div align="center">
 
