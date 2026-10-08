@@ -33,9 +33,17 @@
 
 ## 📊 Estatísticas
 
+
+
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TWLMORFEU&bg_color=1e1e2e&color=cdd6f4&line=5cadc0&point=5cadc0&area=true&hide_border=false&custom_title=Contribuições"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TWLMORFEU&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TWLMORFEU&theme=github_dark" />
 
 </div>
 
