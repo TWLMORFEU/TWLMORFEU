@@ -35,11 +35,9 @@
 
 
 
-<br>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TWLMORFEU&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TWLMORFEU&theme=github_dark&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0" />
 
 </div>
 
