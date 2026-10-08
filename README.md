@@ -34,6 +34,14 @@
 ## 📊 Estatísticas
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=8&theme=dracula&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0"/>
+
+</div>
+
+<br>
+
+<div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0&rank_icon=github)
 
