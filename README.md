@@ -7,17 +7,7 @@
       <br>
       Olá, meu nome é Eduardo !
       <br>
-<div align="center">
 
-```text
-> system.init()
-> user: Eduardo
-> role: Software Engineering Student
-> location: Brazil
-> status: learning...
-</div>
-
-<br>
 <br>
       
 <div align="center">
