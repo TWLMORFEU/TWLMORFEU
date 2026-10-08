@@ -50,6 +50,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=dracula&background=1e1e2e&border=5cadc0&ring=5cadc0&fire=5cadc0&currStreakLabel=5cadc0"/>
+
+</div>
+
   
 </div>
 
