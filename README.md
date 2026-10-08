@@ -16,7 +16,7 @@
     </samp>
   </summary>  <br>  <div align="center">## 📊 Estatísticas
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -25,8 +25,6 @@
 </div>
 
 <br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TWLMORFEU&theme=github_dark" />
 
 <br><br>
 
