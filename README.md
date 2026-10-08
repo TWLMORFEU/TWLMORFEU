@@ -14,8 +14,13 @@
     <samp>
       <b>More Info</b>
     </samp>
-  </summary>  <br>  <div align="center">
-##📊 Estatísticas
+  </summary>  <br>  
+
+<div align="center">
+
+## 📊 Estatísticas
+
+</div>
 
 
 <br><br>
