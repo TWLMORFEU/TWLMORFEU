@@ -33,7 +33,11 @@
 
 ## 📊 Estatísticas
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=TWLMORFEU&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1e1e2e&title_color=5cadc0&text_color=cdd6f4&icon_color=5cadc0&border_color=5cadc0&custom_title=Eduardo%20%7C%20GitHub%20Stats" />
+
+</div>
 
 <div align="center">
 
