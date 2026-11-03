@@ -46,14 +46,15 @@
   <br><br>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=8&theme=dracula&bg_color=1e1e2e&title_color=D6F0FF&text_color=cdd6f4&icon_color=D6F0FF&border_color=D6F0FF" width="500"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWLMORFEU&layout=compact&langs_count=10&theme=dracula&bg_color=1e1e2e&title_color=D6F0FF&text_color=cdd6f4&icon_color=D6F0FF&border_color=D6F0FF" width="500"/>
+</div>
 
-  <br><br>
+<br><br>
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=dracula&background=1e1e2e&border=D6F0FF&ring=D6F0FF&fire=A7DFFF&currStreakLabel=D6F0FF"/>
-  </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TWLMORFEU&theme=dracula&background=1e1e2e&border=D6F0FF&ring=D6F0FF&fire=A7DFFF&currStreakLabel=D6F0FF&date=30"/>
+</div>
+
 
   <br><br>
 
